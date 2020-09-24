@@ -11,3 +11,8 @@ conda install --name workshop_environment --file requirements.txt
 # run, the notebook URL will be printed
 jupyter notebook
 ```
+
+## Overview
+Screenshot of an overview of a memeful workshop:
+
+![example image](example.png "Example workshop")
